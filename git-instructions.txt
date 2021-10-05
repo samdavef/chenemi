@@ -3,3 +3,6 @@ git add *: this adds all modified files for staging
 git commit: this takes the present state of your project and take a snapshot
 git remote add <remote_name>: this adds the link to a remote git server to the git project
 git push <remote_name> <branch_name>: this pushes your local commits to the remote server
+
+git checkout -b <branch_name>: this will create a new branch out of the branch you are presently on
+git checkout <branch_name>: move to another branch that already exist.
