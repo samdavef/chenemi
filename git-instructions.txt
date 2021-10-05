@@ -1,0 +1,5 @@
+git init : this is to initialise git on a sample project (only done once)
+git add *: this adds all modified files for staging
+git commit: this takes the present state of your project and take a snapshot
+git remote add <remote_name>: this adds the link to a remote git server to the git project
+git push <remote_name> <branch_name>: this pushes your local commits to the remote server
